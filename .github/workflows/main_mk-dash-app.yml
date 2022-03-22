@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MK-dash-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00149C6704414EF5AF0489F0FE0BA719 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_037B6BEDDDEF4036A456D0D00B10EEF6 }}
